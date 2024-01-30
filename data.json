@@ -1,10 +1,10 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Yun In Gyu"
   },
 
   "information": {
-    "name": "홍길",
+    "name": "윤인규",
     "contact": [
       { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
