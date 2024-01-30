@@ -4,7 +4,7 @@
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "홍길",
     "contact": [
       { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
