@@ -1,7 +1,7 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- **1997/05/21**
+- **010-2718-1008**
+- 빠르게 **변화하고 학습**하는 것이 중요하다 생각합니다.
+- 어떤 일에도 **적응력**이 좋습니다.
+- 자신이 맡은 일에는 강한 **책임감**을 갖습니다.
+- **다양한 분야**를 다룰 수 있는 **클라우드 엔지니어**가 목표입니다.
+- **Network, Python, Linux, AWS, Terraform, Ansible**
