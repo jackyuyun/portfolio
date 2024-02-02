@@ -16,7 +16,7 @@
       "id": 0,
       "name": "",
       "position": "",
-      "period": []
+      "period": ""
     }
   ],
 
@@ -24,8 +24,8 @@
     {
       "id": 0,
       "name": "Amazon workspaces로 구현한 재택근무 서비스 구축",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/jackyuyun/projects1",
+      "description": "보안성이 높은 재택근무 환경 구축을 위해 AWS의 리소스를 활용하여 구현.",
+      "webUrl": "",
       "repoUrl": "https://github.com/jackyuyun/projects1",
       "isTeam": true,
       "period": ["2023. 12", "2024. 01"],
@@ -34,8 +34,8 @@
     {
       "id": 1,
       "name": "대용량 트래픽 처리를 위한 Hybrid AWS Architecture",
-      "description": "대부분의 포털 사이트의 메인 웹 페이지 트래픽은 급격히 변화 하는데 그 변화에 대응하고 안정적인 서비스를 제공하기 위해서는 대규모 트래픽을 다루는 분산 처리기능은 필수적.",
-      "webUrl": "https://github.com/jackyuyun/project1",
+      "description": "대부분의 포털 사이트의 메인 웹 페이지 트래픽은 급격히 변화 하는데 그 변화에 대응하고 안정적인 서비스를 제공하기 위해 AWS로 환경구축",
+      "webUrl": "",
       "repoUrl": "https://github.com/jackyuyun/project1",
       "isTeam": false,
       "period": ["2023. 10", "2023. 10"],
