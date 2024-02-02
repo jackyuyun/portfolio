@@ -1,8 +1,8 @@
-// import Image from "next/image";
-// import ReactMarkdown from "react-markdown";
-// import remarkGfm from "remark-gfm";
+import Image from "next/image";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
-// import { WorkExperienceProps } from "@/types";
+import { WorkExperienceProps } from "@/types";
 
 // const WorkExperienceItem = ({ name, position, period, markdown, imgSrc }: WorkExperienceProps) => {
 //   return (
