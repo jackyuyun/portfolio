@@ -8,7 +8,7 @@ import type { AppProps } from "next/app";
  */
 const DEFAULT_SEO = {
   title: "윤인규 | Portfolio",
-  description: "안녕하세요, 클라우드 엔지니어 윤인규입니다.",
+  description: "안녕하세요, 소통하며 발전해나가는 윤인규입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
